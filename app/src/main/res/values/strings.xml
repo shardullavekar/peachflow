@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FlowPeach</string>
+    <string name="title_activity_peach_callback">PeachCallback</string>
+</resources>
